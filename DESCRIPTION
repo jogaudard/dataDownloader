@@ -2,7 +2,7 @@ Package: dataDownloader
 Title: Downloads Files From Repositories If Hash Has Changed
 Version: 0.0.0.9002
 Authors@R: 
-    person(given = "Richard",
+    person(given = c("Richard", "James"),
            family = "Telford",
            role = c("aut", "cre"),
            email = "richard.telford@uib.no",
